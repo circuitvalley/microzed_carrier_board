@@ -1,6 +1,25 @@
 # microzed_carrier_board
 Repo for Source files of Avent miroZed Carrier Boards published on www.circuitvalley.com
 
+
+microZed Carrier Boards (c) by Gaurav Singh www.CircuitValley.com
+microZed Carrier Boards is licensed under a
+Creative Commons Attribution 3.0 Unported License.
+You should have received a copy of the license along with this
+work.  If not, see <http://creativecommons.org/licenses/by/3.0/>.
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+
 <a href="https://www.circuitvalley.com/2020/05/diy-microzed-breakout-carrier-board-zynq-fpga.html">
 <img src="https://raw.githubusercontent.com/circuitvalley/microzed_carrier_board/master/microZed%20GPIO%20Breakout/Images/microzed%20breakout%20board%20zynq%20fpga%20diy%20open%20source%20%20gpio%20(5).JPG" alt="microZed GPIO" width="830" height="580">
 </a>
