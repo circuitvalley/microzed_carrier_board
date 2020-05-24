@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NBAUJMOG
+DocumentUniqueId=TZFXHHNW
 
 [Document10]
 DocumentPath=..\myLib\PBL - SMD Packages.PcbLib
@@ -256,7 +256,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EGVGZSWP
+DocumentUniqueId=QOYAMSSU
 
 [Document14]
 DocumentPath=uZed_Breakout.OutJob
@@ -288,54 +288,62 @@ DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GBL
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.G1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GBO
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.G2
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GBP
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GBS
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GM3
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GTL
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GTO
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GTP
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GTS
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.LDP
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.REP
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.RUL
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for uZed_Breakout\uZed_breakout.TXT
 DItemRevisionGUID=
 
@@ -367,7 +375,7 @@ TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=0
 SCH_PrintColor=0
-PrintQuality=-3
+PrintQuality=-4
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
@@ -622,7 +630,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908291~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908291~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
