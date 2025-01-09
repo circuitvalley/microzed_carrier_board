@@ -20,11 +20,11 @@ License][cc-by].
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
-<a href="https://www.circuitvalley.com/2020/05/diy-microzed-breakout-carrier-board-zynq-fpga.html">
-<img src="https://raw.githubusercontent.com/circuitvalley/microzed_carrier_board/master/microZed%20GPIO%20Breakout/Images/microzed%20breakout%20board%20zynq%20fpga%20diy%20open%20source%20%20gpio%20(5).JPG" alt="microZed GPIO" width="830" height="580">
+<a href="https://www.circuitvalley.com/2025/01/microzed-uzed-breakout-carrier-board-zynq-fpga-som-AES-MBCC-BRK-G.html">
+<img src="https://github.com/circuitvalley/microzed_carrier_board/blob/master/microZed_GPIO_Breakout_2V0/Images/microzed%20breakout%20board%20zynq%20fpga_gpio_carrier_AES-MBCC-BRK-G_%20(3).JPG" alt="microZed GPIO" width="830" height="580">
 </a>
 
 
-<a href="https://www.circuitvalley.com/2020/05/diy-microzed-breakout-carrier-board-zynq-fpga.html">
-<img src="https://raw.githubusercontent.com/circuitvalley/microzed_carrier_board/master/microZed%20GPIO%20Breakout/Images/microzed%20breakout%20board%20zynq%20fpga%20diy%20open%20source%20%20gpio%20(2).JPG" alt="microZed GPIO" width="830" height="580">
+<a href="https://www.circuitvalley.com/2025/01/microzed-uzed-breakout-carrier-board-zynq-fpga-som-AES-MBCC-BRK-G.html">
+<img src="https://github.com/circuitvalley/microzed_carrier_board/blob/master/microZed_GPIO_Breakout_2V0/Images/microzed%20breakout%20board%20zynq%20fpga_gpio_carrier_AES-MBCC-BRK-G_%20(2).JPG" alt="microZed GPIO" width="830" height="580">
 </a>
